@@ -28,7 +28,8 @@ In this project we are creating analysis for clients who are preparing to enter 
 ![deliverable 4 2](https://user-images.githubusercontent.com/66500222/186790938-6fd9457b-9ed3-4877-9105-8bac8b4db3d9.png)
 
 
-![bokeh_plot](https://user-images.githubusercontent.com/66500222/186790953-80aa5065-1760-489d-8f20-23282e18b19d.png)
-
-
 ![deliverable 4 3](https://user-images.githubusercontent.com/66500222/186791130-7e749488-0552-4870-8ffc-41ab45ebce46.png)
+
+
+
+![bokeh_plot](https://user-images.githubusercontent.com/66500222/186790953-80aa5065-1760-489d-8f20-23282e18b19d.png)
